@@ -5,11 +5,9 @@ Presented at STEMtech 2014 in Denver, Colorado.
 See more presentations at [dev.ohheybrian.com](http://dev.ohheybrian.com)
 
 ----------------
-This presentation is licensed under the MIT license.
-
 The MIT License (MIT)
 
-Copyright (c) 2014 Brian E. bennett
+Copyright (c) 2014 Brian E. Bennett
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
