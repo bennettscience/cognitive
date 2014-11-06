@@ -26,3 +26,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+[impress.js](https://github.com/bartaz/impress.js/) is Copyright (c) 2011 by Bartok Szopka released under MIT License.
+
+[This presentation layout](https://github.com/johnpolacek/WhatTheHeckIsResponsiveWebDesign-impressjs) is Copyright (c) 2012 by John Polacek released under MIT License.
