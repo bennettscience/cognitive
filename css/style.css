@@ -134,10 +134,12 @@ blockquote .author {
 
 #when-things div { font-size: 87px; }
 #when-thing1, #when-thing2, #when-thing1, #when-thing1 { position: relative; padding: 0; }
-#when-thing1 { left: 20px; font-size: 124px; }
-#when-thing2 { left: 10px; font-size: 93px; letter-spacing: 0; }
-#when-thing3 { font-size: 120px; }
-#when-thing4 { font-size: 190px; }
+#when-thing1 { left: 20px; font-size: 113px; }
+#when-thing1a { font-size:168px;}
+#when-thing2 { left: 10px; font-size: 105px; letter-spacing: 0; }
+#when-thing2a { font-size:160px; }
+#when-thing3 { font-size: 89px; }
+#when-thing3a { font-size: 185px; }
 
 .adj-j { font-size: 88%; position: relative; top: -10px; }
 
