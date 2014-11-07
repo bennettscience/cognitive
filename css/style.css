@@ -1,5 +1,5 @@
 html { overflow: hidden; }
-body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
+body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; margin:0; padding:0}
 
 .background {
 	position: fixed;
